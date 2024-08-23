@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshitakaSkull
+- 👋 Hi, I’m @Harshit Gupta
 - 👀 I’m interested in Java, MongoDB, Pyhton, and Information Security
 - 🌱 I’m currently learning Advance Java and DSA
 - 💞️ I’m looking to collaborate on new projects to learn and add new skills to my arsenal
